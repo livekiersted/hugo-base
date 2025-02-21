@@ -1,6 +1,6 @@
 #
 
-Hello friends! This repository holds the code and content for this website. It is a static website built with [hugo](https://gohugo.io).
+Hello friend! This repository holds the code and content for this website. It is a static website built with [hugo](https://gohugo.io).
 
 ## Updating Content
 
